@@ -15,3 +15,13 @@ Customizable Categories: Users can create custom categories for both income and 
 # TECH STACK USED
 For Frontend: React Js
 For Backend: MongoDb and Node Js
+
+# Screenshots
+
+<img width="1440" alt="Screenshot 2024-03-19 at 11 26 58 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/b84be859-2eb9-4a9f-8a7c-33f8568d745e">
+
+<img width="1440" alt="Screenshot 2024-03-19 at 11 27 13 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/8ebd3294-e1af-47c9-8bc4-2727a5e0469a">
+
+<img width="1440" alt="Screenshot 2024-03-19 at 11 27 21 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/7dfd1f93-0d8d-4ef3-9f6c-97d6da6960ba">
+
+
