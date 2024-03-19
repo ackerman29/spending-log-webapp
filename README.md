@@ -12,4 +12,6 @@ Budget Management: Expense Tracker empowers users to set personalized budgets fo
 
 Customizable Categories: Users can create custom categories for both income and expenses, tailoring the application to their specific financial needs. Whether it's groceries, utilities, or entertainment expenses, users can categorize transactions with ease.
 
-
+# TECH STACK USED
+For Frontend: React Js
+For Backend: MongoDb and Node Js
