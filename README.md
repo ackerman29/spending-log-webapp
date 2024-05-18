@@ -14,7 +14,7 @@ Customizable Categories: Users can create custom categories for both income and 
 
 # TECH STACK USED
 For Frontend: React Js
-For Backend: MongoDb and Node Js
+For Backend: MongoDb, Node Js, Express Js
 
 # Screenshots
 
