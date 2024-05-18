@@ -32,7 +32,7 @@ function Navigation({active,setActive}) {
             </ul>
             <div className="bottom-nav">
                 <h5>
-                  Created by Saksham and Rupanjan 
+                   
                 </h5>
             </div>
         </NavStyled>
