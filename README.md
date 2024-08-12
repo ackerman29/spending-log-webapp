@@ -4,7 +4,7 @@ Spending Log is a web application designed to help users effortlessly manage the
 
 # KEY FEATURES:
 
-Income and expenses Tracking: Expense Tracker allows users to seamlessly log both their incomes and expenses in one central platform. Whether it's salary, freelance earnings, or miscellaneous income sources, users can record all transactions accurately.
+Income and expenses Tracking: This app allows users to seamlessly log both their incomes and expenses in one central platform. Whether it's salary, freelance earnings, or miscellaneous income sources, users can record all transactions accurately.
 
 Comprehensive Reporting: The application generates comprehensive reports based on income and expense data. Users can visualize their financial activities through interactive graphs, providing clear insights into where their money is coming from and where it's going.
 
