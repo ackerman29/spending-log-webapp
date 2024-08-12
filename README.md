@@ -8,7 +8,7 @@ Income and expenses Tracking: This app allows users to seamlessly log both their
 
 Comprehensive Reporting: The application generates comprehensive reports based on income and expense data. Users can visualize their financial activities through interactive graphs, providing clear insights into where their money is coming from and where it's going.
 
-Budget Management: Expense Tracker empowers users to set personalized budgets for various expense categories. By comparing actual spending against budgeted amounts, users can identify areas of overspending and make necessary adjustments to stay within their financial goals.
+Budget Management: This web app empowers users to set personalized budgets for various expense categories. By comparing actual spending against budgeted amounts, users can identify areas of overspending and make necessary adjustments to stay within their financial goals.
 
 Customizable Categories: Users can create custom categories for both income and expenses, tailoring the application to their specific financial needs. Whether it's groceries, utilities, or entertainment expenses, users can categorize transactions with ease.
 
