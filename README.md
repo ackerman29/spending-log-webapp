@@ -18,15 +18,17 @@ For Backend: MongoDb, Node Js, Express Js
 
 # PROJECT WORKFLOW:
 
-<img width="1154" alt="Screenshot 2024-07-07 at 4 08 50 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/d78fce4b-537d-4a25-a875-8cac29120cab">
+<img width="1437" alt="Screenshot 2024-08-13 at 12 25 17 AM" src="https://github.com/user-attachments/assets/0391183e-d50c-466d-bed1-b8e85e17ab7a">
 
 
 # Screenshots
 
-<img width="1440" alt="Screenshot 2024-03-19 at 11 26 58 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/b84be859-2eb9-4a9f-8a7c-33f8568d745e">
+<img width="1440" alt="Screenshot 2024-08-13 at 12 19 47 AM" src="https://github.com/user-attachments/assets/dd845985-23b3-4c52-b422-97d770357236">
 
-<img width="1440" alt="Screenshot 2024-03-19 at 11 27 13 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/8ebd3294-e1af-47c9-8bc4-2727a5e0469a">
 
-<img width="1440" alt="Screenshot 2024-03-19 at 11 27 21 PM" src="https://github.com/ackerman29/expense-tracker-webapp/assets/104158912/7dfd1f93-0d8d-4ef3-9f6c-97d6da6960ba">
+<img width="1440" alt="Screenshot 2024-08-13 at 12 21 19 AM" src="https://github.com/user-attachments/assets/2d0e286c-6a44-4ccf-b3ef-99fe824b3b43">
+
+<img width="1440" alt="Screenshot 2024-08-13 at 12 21 29 AM" src="https://github.com/user-attachments/assets/2cc95402-ae9b-4e04-aba7-46c71de73c29">
+
 
 
