@@ -17,7 +17,7 @@ const Dashboard = () => {
   return (
     <DashboardStyled>
             <InnerLayout>
-                <h1>All Transactions</h1>
+                <h1></h1>
                 <div className="stats-con">
                     <div className="chart-con">
                         <Chart />
