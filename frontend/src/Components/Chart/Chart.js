@@ -40,7 +40,7 @@ function Chart() {
                         return amount
                     })
                 ],
-                backgroundColor: 'green',
+                backgroundColor: 'blue',
                 tension: .2
             },
             {
